@@ -22,12 +22,16 @@ reproduction steps.
 |--------|-------------|--------|
 | **Figure 1** | 2025 NW Pacific summer marine-heatwave overview: SSTA map, MHW time series, variability, raw-vs-detrended trend, and mixed-layer / surface-flux heat budget (6 panels) | [`fig1/`](fig1/README.md) |
 | **Figure 2** | 2025 JJA atmospheric & ocean-surface anomaly fields: geopotential height, vertical velocity, cloud cover, net shortwave, mixed-layer depth, SLP + 10 m wind (6 panels) | [`fig2/`](fig2/README.md) |
+| **Figure 3** | Upper-tropospheric circulation, Tibetan Plateau heating, and the SST link: V200 + jet axis, T2m map, T & Z cross-sections at 36°N, eddy Z200 + Plumb flux, T2m index, SST-onto-T2m regression (7 panels) | [`fig3/`](fig3/README.md) |
 
 ### Figure 1
 [![Figure 1](fig1/figures/sst_6panel_combined_new.png)](fig1/README.md)
 
 ### Figure 2
 [![Figure 2](fig2/figures/combined_3x2_anomalies_2025_summer_aligned_new.png)](fig2/README.md)
+
+### Figure 3
+[![Figure 3](fig3/figures/combined_multirow_figure_new.png)](fig3/README.md)
 
 ---
 
@@ -41,10 +45,14 @@ reproduction steps.
 │   ├── code/                  # figure script, base module, calculation-only CSV entry point
 │   ├── figures/               # final Figure 1 (600 dpi)
 │   └── data/                  # derived CSV products (traceable to the code)
-└── fig2/                      # Figure 2 — atmospheric & ocean-surface anomalies
+├── fig2/                      # Figure 2 — atmospheric & ocean-surface anomalies
+│   ├── README.md
+│   ├── code/                  # self-contained figure script
+│   └── figures/               # final Figure 2 (300 dpi)
+└── fig3/                      # Figure 3 — circulation, TP heating, SST link
     ├── README.md
     ├── code/                  # self-contained figure script
-    └── figures/               # final Figure 2 (300 dpi)
+    └── figures/               # final Figure 3 (300 dpi)
 ```
 
 ## Requirements
