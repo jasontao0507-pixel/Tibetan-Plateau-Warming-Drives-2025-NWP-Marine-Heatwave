@@ -1,0 +1,5 @@
+component,value_degC_per_season,source_data
+Shortwave,3.762480,raw_ERA5_Qnet
+Longwave,-0.754168,raw_ERA5_Qnet
+Sensible,0.169070,raw_ERA5_Qnet
+Latent,-1.296869,raw_ERA5_Qnet
