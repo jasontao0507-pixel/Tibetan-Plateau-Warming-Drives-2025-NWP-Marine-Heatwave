@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata from this file."
+title: "Role of Western Tibetan Plateau Thermal Forcing in the 2025 Summer Extreme Marine Heatwave over the Northwestern Pacific"
+type: software
+version: 1.0.0
+abstract: "Code, small derived products, and figure-generation workflow accompanying the paper Role of Western Tibetan Plateau Thermal Forcing in the 2025 Summer Extreme Marine Heatwave over the Northwestern Pacific."
+repository-code: "https://github.com/jasontao0507-pixel/Role-of-Western-Tibetan-Plateau-Thermal-Forcing-2025-NWP-Marine-Heatwave"
+authors:
+  - given-names: Jianning
+    family-names: Tao
+    affiliation: "School of Atmospheric Sciences, Chengdu University of Information Technology, Chengdu, China"
+  - given-names: Wei
+    family-names: Hua
+    affiliation: "School of Atmospheric Sciences, Chengdu University of Information Technology, Chengdu, China"
+  - given-names: Lihua
+    family-names: Zhu
+    affiliation: "School of Atmospheric Sciences, Chengdu University of Information Technology, Chengdu, China"
+  - given-names: Xiaofei
+    family-names: Wu
+    affiliation: "School of Atmospheric Sciences, Chengdu University of Information Technology, Chengdu, China"
+  - given-names: Shangru
+    family-names: Li
+    affiliation: "School of Atmospheric Sciences, Chengdu University of Information Technology, Chengdu, China"
+keywords:
+  - marine heatwave
+  - northwestern Pacific
+  - Tibetan Plateau
+  - Rossby wave train
+  - sea surface temperature
+  - Python
