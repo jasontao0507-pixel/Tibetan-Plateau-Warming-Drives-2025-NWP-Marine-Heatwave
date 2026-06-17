@@ -2,11 +2,15 @@
 
 This folder contains the code and final figure for **Figure 2** of the paper:
 
-> **Role of Western Tibetan Plateau Thermal Forcing in the 2025 Summer Extreme Marine Heatwave over the Northwestern Pacific**
+> **Tibetan Plateau Warming Drives the Extreme Summer Marine Heatwave in 2025 over the northwestern Pacific**
 >
-> Jianning Tao¹, Wei Hua¹\*, Lihua Zhu¹, Xiaofei Wu¹, Shangru Li¹
+> Jianning Tao¹, Wei Hua¹\*, Huijun Wang²,³, Lihua Zhu¹, Xiaofei Wu¹, Shangru Li¹
 >
 > ¹ School of Atmospheric Sciences / Climate Change and Resource Utilization in Complex Terrain Regions Key Laboratory of Sichuan Province / Sichuan Provincial Engineering Research Center for Meteorological Disaster Prediction and Early Warning, Chengdu University of Information Technology, Chengdu, China
+>
+> ² State Key Laboratory of Climate System Prediction and Risk Management / Key Laboratory of Meteorological Disaster, Ministry of Education / Collaborative Innovation Center on Forecast and Evaluation of Meteorological Disasters, Nanjing University of Information Science and Technology, Nanjing, China
+>
+> ³ School of Atmospheric Sciences, Nanjing University of Information Science and Technology, Nanjing, China
 >
 > \* Corresponding author: Wei Hua
 
