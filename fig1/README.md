@@ -2,7 +2,7 @@
 
 This folder contains the code, derived data, and final figure for **Figure 1** of the paper:
 
-> **Tibetan Plateau Warming Drives the Extreme Summer Marine Heatwave in 2025 over the northwestern Pacific**
+> **Teleconnection between Tibetan Plateau Warming and Marine Heatwave over the northwestern Pacific**
 >
 > Jianning Tao¹, Wei Hua¹\*, Huijun Wang²,³, Lihua Zhu¹, Xiaofei Wu¹, Shangru Li¹
 >
